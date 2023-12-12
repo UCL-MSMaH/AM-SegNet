@@ -1,0 +1,6 @@
+Images for testing, including:
+
+1. LPBF (Lasere Powder Bed Fusion)
+2. Welding
+3. DED (Directed Energy Deposition)
+4. HPDC (High Pressure Die Casting)
