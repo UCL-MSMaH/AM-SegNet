@@ -1,4 +1,0 @@
-* Network weights of standard U-ent after model training
-
-File name: Model weight_Unet.hdf5
-Link: https://www.dropbox.com/scl/fi/qntb0d6c2stk5q1wjdkog/Model-weight_Unet.hdf5?rlkey=tjcvyu7jgs8208jlduyxysyqm&dl=0
