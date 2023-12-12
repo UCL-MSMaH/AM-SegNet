@@ -1,4 +1,4 @@
 * Network weights of AM-SegMent after model training
 
-File name: Model weight_AM_SegNet.hdf5
-Link: https://www.dropbox.com/scl/fi/t9dq3fovy0fa437j4g78g/Model-weight_AM_SegNet.hdf5?rlkey=q3kx76vpw4jtbpnahqdtiml7i&dl=0
+File name: Model weights of AM-SegNet.hdf5
+Link: https://www.dropbox.com/scl/fi/a0tcwbqspbydozeurnspe/Model-weights-of-AM-SegNet.hdf5?rlkey=1wlzvpcmxv4erpvtyu4fdho20&dl=0
