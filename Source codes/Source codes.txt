@@ -1,0 +1,4 @@
+#Source codes for model construction
+
+1. AM-SegNet
+2. Standard U-net
