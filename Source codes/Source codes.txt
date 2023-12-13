@@ -2,3 +2,4 @@
 
 1. AM-SegNet
 2. Standard U-net
+3. Variants of U-Net
