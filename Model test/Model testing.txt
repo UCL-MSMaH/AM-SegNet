@@ -1,6 +1,6 @@
 Testing of trained CNN models:
 
-# Load images for model testing
 # Construct model structure
 # Load trained model weights
-# Peform image segmentation 
+# Load images for model testing
+# Peform semantic segmentation 
