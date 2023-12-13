@@ -1,4 +1,4 @@
 * Network weights of standard U-net after model training
 
-File name: Model weight of standard U-net.hdf5
-Link: https://www.dropbox.com/scl/fi/73bllv39m5jvth0shocv4/Model-weight-of-standard-U-net.hdf5?rlkey=tycg78piel4z3028hqrvyccn6&dl=0
+File name: Model weights of standard U-net.hdf5
+Link: https://www.dropbox.com/scl/fi/g4rcxt7qqt2gu6nh7mdsh/Model-weights-of-standard-U-net.hdf5?rlkey=dmuhhd24klxzxifrte6g8qyuv&dl=0
