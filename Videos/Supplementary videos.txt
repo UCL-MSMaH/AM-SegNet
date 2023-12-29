@@ -1,1 +1,2 @@
-
+1. Supplementary Video S1: Automatic semantic segmentation of time-series LPBF X-ray images: (a) raw X-ray images; (b) ground-truth pixel-labelling results; (c) semantic segmentation results from trained AM-SegNet.
+2. Supplementary Video S2 Automatic semantic segmentation of time-series HPDC X-ray images: (a) raw X-ray images; (b) ground-truth pixel-labelling results; (c) semantic segmentation results from trained AM-SegNet
